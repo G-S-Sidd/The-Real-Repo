@@ -11,3 +11,8 @@ div{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
 }
+.bex{
+    text-align: justify;
+    font-size: medium;
+    font-style: italic;
+}
